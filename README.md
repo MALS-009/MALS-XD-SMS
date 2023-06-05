@@ -8,4 +8,4 @@ ls
 
 git pull
 
-python MALS_SMS
+python MALS_SMS.py
